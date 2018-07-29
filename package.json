@@ -1,7 +1,8 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "homepage" : "http://pangolino91.github.io/todolist",
   "dependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
